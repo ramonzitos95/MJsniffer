@@ -1,0 +1,9 @@
+C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\bin\Debug\MJSniff.exe
+C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\bin\Debug\MJSniff.pdb
+C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJsniffer.csprojResolveAssemblyReference.cache
+C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJsniffer.MJsnifferForm.resources
+C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJSniff.Properties.Resources.resources
+C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJsniffer.csproj.GenerateResource.Cache
+C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJsniffer.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJSniff.exe
+C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJSniff.pdb
