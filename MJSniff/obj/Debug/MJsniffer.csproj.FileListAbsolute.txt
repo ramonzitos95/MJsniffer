@@ -7,3 +7,11 @@ C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJsniffe
 C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJsniffer.csproj.CoreCompileInputs.cache
 C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJSniff.exe
 C:\Users\ramon\Documents\Projetos\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJSniff.pdb
+C:\Projetos\projetos Git\MJsniffer\MJSniff\obj\Debug\MJSniff.exe
+C:\Projetos\projetos Git\MJsniffer\MJSniff\obj\Debug\MJSniff.pdb
+C:\Projetos\projetos Git\MJsniffer\MJSniff\bin\Debug\MJSniff.exe
+C:\Projetos\projetos Git\MJsniffer\MJSniff\bin\Debug\MJSniff.pdb
+C:\Projetos\projetos Git\MJsniffer\MJSniff\obj\Debug\MJsniffer.csprojResolveAssemblyReference.cache
+C:\Projetos\projetos Git\MJsniffer\MJSniff\obj\Debug\MJsniffer.MJsnifferForm.resources
+C:\Projetos\projetos Git\MJsniffer\MJSniff\obj\Debug\MJSniff.Properties.Resources.resources
+C:\Projetos\projetos Git\MJsniffer\MJSniff\obj\Debug\MJsniffer.csproj.GenerateResource.Cache
